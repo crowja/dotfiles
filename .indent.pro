@@ -1,0 +1,1 @@
+-br -nce -i3 -nbad -bap -nbs -c50 -cd45 -ci1 -cli3 -di12 -nbc -lp -brs -psl -npcs -TFILE -Tuint32_t -Tuint8_t -Tsize_t -l90 -nut
